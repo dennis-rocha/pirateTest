@@ -1,0 +1,1717 @@
+[
+    {
+        "Id":0,
+        "Localidade":"Abdon Batista",
+        "Faixa de CEP":"89636-000 a 89637-999"
+    },
+    {
+        "Id":1,
+        "Localidade":"Abelardo Luz",
+        "Faixa de CEP":"89830-000 a 89831-999"
+    },
+    {
+        "Id":2,
+        "Localidade":"Agrol\u00e2ndia",
+        "Faixa de CEP":"88420-000 a 88429-999"
+    },
+    {
+        "Id":3,
+        "Localidade":"Agron\u00f4mica",
+        "Faixa de CEP":"89188-000 a 89189-999"
+    },
+    {
+        "Id":4,
+        "Localidade":"\u00c1gua Doce",
+        "Faixa de CEP":"89654-000 a 89659-999"
+    },
+    {
+        "Id":5,
+        "Localidade":"\u00c1guas de Chapec\u00f3",
+        "Faixa de CEP":"89883-000 a 89884-999"
+    },
+    {
+        "Id":6,
+        "Localidade":"\u00c1guas Frias",
+        "Faixa de CEP":"89843-000 a 89844-999"
+    },
+    {
+        "Id":7,
+        "Localidade":"\u00c1guas Mornas",
+        "Faixa de CEP":"88150-000 a 88159-999"
+    },
+    {
+        "Id":8,
+        "Localidade":"Alfredo Wagner",
+        "Faixa de CEP":"88450-000 a 88459-999"
+    },
+    {
+        "Id":9,
+        "Localidade":"Alto Bela Vista",
+        "Faixa de CEP":"89730-000 a 89734-999"
+    },
+    {
+        "Id":10,
+        "Localidade":"Anchieta",
+        "Faixa de CEP":"89970-000 a 89979-999"
+    },
+    {
+        "Id":11,
+        "Localidade":"Angelina",
+        "Faixa de CEP":"88460-000 a 88469-999"
+    },
+    {
+        "Id":12,
+        "Localidade":"Anita Garibaldi",
+        "Faixa de CEP":"88590-000 a 88597-999"
+    },
+    {
+        "Id":13,
+        "Localidade":"Anit\u00e1polis",
+        "Faixa de CEP":"88475-000 a 88484-999"
+    },
+    {
+        "Id":14,
+        "Localidade":"Ant\u00f4nio Carlos",
+        "Faixa de CEP":"88180-000 a 88189-999"
+    },
+    {
+        "Id":15,
+        "Localidade":"Api\u00fana",
+        "Faixa de CEP":"89135-000 a 89135-999"
+    },
+    {
+        "Id":16,
+        "Localidade":"Arabut\u00e3",
+        "Faixa de CEP":"89740-000 a 89744-999"
+    },
+    {
+        "Id":17,
+        "Localidade":"Araquari",
+        "Faixa de CEP":"89245-000 a 89246-999"
+    },
+    {
+        "Id":18,
+        "Localidade":"Ararangu\u00e1",
+        "Faixa de CEP":"88900-001 a 88913-999"
+    },
+    {
+        "Id":19,
+        "Localidade":"Ararangu\u00e1",
+        "Faixa de CEP":"88900-001 a 88913-999"
+    },
+    {
+        "Id":20,
+        "Localidade":"Armaz\u00e9m",
+        "Faixa de CEP":"88740-000 a 88744-999"
+    },
+    {
+        "Id":21,
+        "Localidade":"Arroio Trinta",
+        "Faixa de CEP":"89590-000 a 89594-999"
+    },
+    {
+        "Id":22,
+        "Localidade":"Arvoredo",
+        "Faixa de CEP":"89778-000 a 89779-999"
+    },
+    {
+        "Id":23,
+        "Localidade":"Ascurra",
+        "Faixa de CEP":"89138-000 a 89139-999"
+    },
+    {
+        "Id":24,
+        "Localidade":"Atalanta",
+        "Faixa de CEP":"88410-000 a 88419-999"
+    },
+    {
+        "Id":25,
+        "Localidade":"Aurora",
+        "Faixa de CEP":"89186-000 a 89187-999"
+    },
+    {
+        "Id":26,
+        "Localidade":"Balne\u00e1rio Arroio do Silva",
+        "Faixa de CEP":"88914-000 a 88914-999"
+    },
+    {
+        "Id":27,
+        "Localidade":"Balne\u00e1rio Barra do Sul",
+        "Faixa de CEP":"89247-000 a 89247-999"
+    },
+    {
+        "Id":28,
+        "Localidade":"Balne\u00e1rio Cambori\u00fa",
+        "Faixa de CEP":"88330-001 a 88339-999"
+    },
+    {
+        "Id":29,
+        "Localidade":"Balne\u00e1rio Cambori\u00fa",
+        "Faixa de CEP":"88330-001 a 88339-999"
+    },
+    {
+        "Id":30,
+        "Localidade":"Balne\u00e1rio Gaivota",
+        "Faixa de CEP":"88955-000 a 88959-999"
+    },
+    {
+        "Id":31,
+        "Localidade":"Balne\u00e1rio Pi\u00e7arras",
+        "Faixa de CEP":"88380-000 a 88384-999"
+    },
+    {
+        "Id":32,
+        "Localidade":"Balne\u00e1rio Rinc\u00e3o",
+        "Faixa de CEP":"88828-000 a 88829-999"
+    },
+    {
+        "Id":33,
+        "Localidade":"Bandeirante",
+        "Faixa de CEP":"89905-000 a 89905-999"
+    },
+    {
+        "Id":34,
+        "Localidade":"Barra Bonita",
+        "Faixa de CEP":"89909-000 a 89909-999"
+    },
+    {
+        "Id":35,
+        "Localidade":"Barra Velha",
+        "Faixa de CEP":"88390-000 a 88394-999"
+    },
+    {
+        "Id":36,
+        "Localidade":"Bela Vista do Toldo",
+        "Faixa de CEP":"89478-000 a 89479-999"
+    },
+    {
+        "Id":37,
+        "Localidade":"Belmonte",
+        "Faixa de CEP":"89925-000 a 89929-999"
+    },
+    {
+        "Id":38,
+        "Localidade":"Benedito Novo",
+        "Faixa de CEP":"89124-000 a 89125-999"
+    },
+    {
+        "Id":39,
+        "Localidade":"Bigua\u00e7u",
+        "Faixa de CEP":"88160-001 a 88179-999"
+    },
+    {
+        "Id":40,
+        "Localidade":"Bigua\u00e7u",
+        "Faixa de CEP":"88160-001 a 88169-999"
+    },
+    {
+        "Id":41,
+        "Localidade":"Blumenau",
+        "Faixa de CEP":"89000-001 a 89079-999"
+    },
+    {
+        "Id":42,
+        "Localidade":"Blumenau",
+        "Faixa de CEP":"89000-001 a 89079-999"
+    },
+    {
+        "Id":43,
+        "Localidade":"Boca\u00edna do Sul",
+        "Faixa de CEP":"88538-000 a 88539-999"
+    },
+    {
+        "Id":44,
+        "Localidade":"Bom Jardim da Serra",
+        "Faixa de CEP":"88640-000 a 88649-999"
+    },
+    {
+        "Id":45,
+        "Localidade":"Bom Jesus",
+        "Faixa de CEP":"89824-000 a 89824-999"
+    },
+    {
+        "Id":46,
+        "Localidade":"Bom Jesus do Oeste",
+        "Faixa de CEP":"89873-000 a 89873-999"
+    },
+    {
+        "Id":47,
+        "Localidade":"Bom Retiro",
+        "Faixa de CEP":"88680-000 a 88699-999"
+    },
+    {
+        "Id":48,
+        "Localidade":"Bombinhas",
+        "Faixa de CEP":"88215-000 a 88219-999"
+    },
+    {
+        "Id":49,
+        "Localidade":"Botuver\u00e1",
+        "Faixa de CEP":"88295-000 a 88299-999"
+    },
+    {
+        "Id":50,
+        "Localidade":"Bra\u00e7o do Norte",
+        "Faixa de CEP":"88750-000 a 88759-999"
+    },
+    {
+        "Id":51,
+        "Localidade":"Bra\u00e7o do Trombudo",
+        "Faixa de CEP":"89178-000 a 89179-999"
+    },
+    {
+        "Id":52,
+        "Localidade":"Brun\u00f3polis",
+        "Faixa de CEP":"89634-000 a 89635-999"
+    },
+    {
+        "Id":53,
+        "Localidade":"Brusque",
+        "Faixa de CEP":"88350-001 a 88359-999"
+    },
+    {
+        "Id":54,
+        "Localidade":"Brusque",
+        "Faixa de CEP":"88350-001 a 88359-999"
+    },
+    {
+        "Id":55,
+        "Localidade":"Ca\u00e7ador",
+        "Faixa de CEP":"89500-001 a 89514-999"
+    },
+    {
+        "Id":56,
+        "Localidade":"Ca\u00e7ador",
+        "Faixa de CEP":"89500-001 a 89514-999"
+    },
+    {
+        "Id":57,
+        "Localidade":"Caibi",
+        "Faixa de CEP":"89888-000 a 89889-999"
+    },
+    {
+        "Id":58,
+        "Localidade":"Calmon",
+        "Faixa de CEP":"89430-000 a 89439-999"
+    },
+    {
+        "Id":59,
+        "Localidade":"Cambori\u00fa",
+        "Faixa de CEP":"88340-001 a 88349-999"
+    },
+    {
+        "Id":60,
+        "Localidade":"Cambori\u00fa",
+        "Faixa de CEP":"88340-001 a 88349-999"
+    },
+    {
+        "Id":61,
+        "Localidade":"Campo Alegre",
+        "Faixa de CEP":"89294-000 a 89294-999"
+    },
+    {
+        "Id":62,
+        "Localidade":"Campo Belo do Sul",
+        "Faixa de CEP":"88580-000 a 88584-999"
+    },
+    {
+        "Id":63,
+        "Localidade":"Campo Er\u00ea",
+        "Faixa de CEP":"89980-000 a 89980-999"
+    },
+    {
+        "Id":64,
+        "Localidade":"Campos Novos",
+        "Faixa de CEP":"89620-000 a 89632-999"
+    },
+    {
+        "Id":65,
+        "Localidade":"Canelinha",
+        "Faixa de CEP":"88230-000 a 88239-999"
+    },
+    {
+        "Id":66,
+        "Localidade":"Canoinhas",
+        "Faixa de CEP":"89460-001 a 89477-999"
+    },
+    {
+        "Id":67,
+        "Localidade":"Canoinhas",
+        "Faixa de CEP":"89460-001 a 89477-999"
+    },
+    {
+        "Id":68,
+        "Localidade":"Cap\u00e3o Alto",
+        "Faixa de CEP":"88548-000 a 88549-999"
+    },
+    {
+        "Id":69,
+        "Localidade":"Capinzal",
+        "Faixa de CEP":"89665-000 a 89666-999"
+    },
+    {
+        "Id":70,
+        "Localidade":"Capivari de Baixo",
+        "Faixa de CEP":"88745-000 a 88749-999"
+    },
+    {
+        "Id":71,
+        "Localidade":"Catanduvas",
+        "Faixa de CEP":"89670-000 a 89674-999"
+    },
+    {
+        "Id":72,
+        "Localidade":"Caxambu do Sul",
+        "Faixa de CEP":"89880-000 a 89881-999"
+    },
+    {
+        "Id":73,
+        "Localidade":"Celso Ramos",
+        "Faixa de CEP":"88598-000 a 88599-999"
+    },
+    {
+        "Id":74,
+        "Localidade":"Cerro Negro",
+        "Faixa de CEP":"88585-000 a 88589-999"
+    },
+    {
+        "Id":75,
+        "Localidade":"Chapad\u00e3o do Lageado",
+        "Faixa de CEP":"88407-000 a 88409-999"
+    },
+    {
+        "Id":76,
+        "Localidade":"Chapec\u00f3",
+        "Faixa de CEP":"89800-001 a 89816-999"
+    },
+    {
+        "Id":77,
+        "Localidade":"Chapec\u00f3",
+        "Faixa de CEP":"89800-001 a 89816-199"
+    },
+    {
+        "Id":78,
+        "Localidade":"Cocal do Sul",
+        "Faixa de CEP":"88845-000 a 88849-999"
+    },
+    {
+        "Id":79,
+        "Localidade":"Conc\u00f3rdia",
+        "Faixa de CEP":"89700-001 a 89729-999"
+    },
+    {
+        "Id":80,
+        "Localidade":"Conc\u00f3rdia",
+        "Faixa de CEP":"89700-001 a 89715-999"
+    },
+    {
+        "Id":81,
+        "Localidade":"Cordilheira Alta",
+        "Faixa de CEP":"89819-000 a 89819-999"
+    },
+    {
+        "Id":82,
+        "Localidade":"Coronel Freitas",
+        "Faixa de CEP":"89840-000 a 89842-999"
+    },
+    {
+        "Id":83,
+        "Localidade":"Coronel Martins",
+        "Faixa de CEP":"89837-000 a 89837-999"
+    },
+    {
+        "Id":84,
+        "Localidade":"Correia Pinto",
+        "Faixa de CEP":"88535-000 a 88537-999"
+    },
+    {
+        "Id":85,
+        "Localidade":"Corup\u00e1",
+        "Faixa de CEP":"89278-000 a 89279-999"
+    },
+    {
+        "Id":86,
+        "Localidade":"Crici\u00fama",
+        "Faixa de CEP":"88800-001 a 88819-999"
+    },
+    {
+        "Id":87,
+        "Localidade":"Crici\u00fama",
+        "Faixa de CEP":"88800-001 a 88819-999"
+    },
+    {
+        "Id":88,
+        "Localidade":"Cunha Por\u00e3",
+        "Faixa de CEP":"89890-000 a 89890-999"
+    },
+    {
+        "Id":89,
+        "Localidade":"Cunhata\u00ed",
+        "Faixa de CEP":"89886-000 a 89886-999"
+    },
+    {
+        "Id":90,
+        "Localidade":"Curitibanos",
+        "Faixa de CEP":"89520-000 a 89529-999"
+    },
+    {
+        "Id":91,
+        "Localidade":"Descanso",
+        "Faixa de CEP":"89910-000 a 89914-999"
+    },
+    {
+        "Id":92,
+        "Localidade":"Dion\u00edsio Cerqueira",
+        "Faixa de CEP":"89950-000 a 89969-999"
+    },
+    {
+        "Id":93,
+        "Localidade":"Dona Emma",
+        "Faixa de CEP":"89155-000 a 89156-999"
+    },
+    {
+        "Id":94,
+        "Localidade":"Doutor Pedrinho",
+        "Faixa de CEP":"89126-000 a 89127-999"
+    },
+    {
+        "Id":95,
+        "Localidade":"Entre Rios",
+        "Faixa de CEP":"89862-000 a 89864-999"
+    },
+    {
+        "Id":96,
+        "Localidade":"Ermo",
+        "Faixa de CEP":"88935-000 a 88939-999"
+    },
+    {
+        "Id":97,
+        "Localidade":"Erval Velho",
+        "Faixa de CEP":"89613-000 a 89617-999"
+    },
+    {
+        "Id":98,
+        "Localidade":"Faxinal dos Guedes",
+        "Faixa de CEP":"89694-000 a 89699-999"
+    },
+    {
+        "Id":99,
+        "Localidade":"Flor do Sert\u00e3o",
+        "Faixa de CEP":"89878-000 a 89878-999"
+    },
+    {
+        "Id":100,
+        "Localidade":"Florian\u00f3polis",
+        "Faixa de CEP":"88000-001 a 88099-999"
+    },
+    {
+        "Id":101,
+        "Localidade":"Florian\u00f3polis",
+        "Faixa de CEP":"88000-001 a 88099-999"
+    },
+    {
+        "Id":102,
+        "Localidade":"Formosa do Sul",
+        "Faixa de CEP":"89859-000 a 89859-999"
+    },
+    {
+        "Id":103,
+        "Localidade":"Forquilhinha",
+        "Faixa de CEP":"88850-000 a 88859-999"
+    },
+    {
+        "Id":104,
+        "Localidade":"Fraiburgo",
+        "Faixa de CEP":"89580-000 a 89589-999"
+    },
+    {
+        "Id":105,
+        "Localidade":"Frei Rog\u00e9rio",
+        "Faixa de CEP":"89530-000 a 89532-999"
+    },
+    {
+        "Id":106,
+        "Localidade":"Galv\u00e3o",
+        "Faixa de CEP":"89838-000 a 89838-999"
+    },
+    {
+        "Id":107,
+        "Localidade":"Garopaba",
+        "Faixa de CEP":"88495-000 a 88499-999"
+    },
+    {
+        "Id":108,
+        "Localidade":"Garuva",
+        "Faixa de CEP":"89248-000 a 89248-999"
+    },
+    {
+        "Id":109,
+        "Localidade":"Gaspar",
+        "Faixa de CEP":"89110-001 a 89119-999"
+    },
+    {
+        "Id":110,
+        "Localidade":"Gaspar",
+        "Faixa de CEP":"89110-001 a 89119-999"
+    },
+    {
+        "Id":111,
+        "Localidade":"Governador Celso Ramos",
+        "Faixa de CEP":"88190-000 a 88199-999"
+    },
+    {
+        "Id":112,
+        "Localidade":"Gr\u00e3o Par\u00e1",
+        "Faixa de CEP":"88890-000 a 88899-999"
+    },
+    {
+        "Id":113,
+        "Localidade":"Gravatal",
+        "Faixa de CEP":"88735-000 a 88739-999"
+    },
+    {
+        "Id":114,
+        "Localidade":"Guabiruba",
+        "Faixa de CEP":"88360-000 a 88369-999"
+    },
+    {
+        "Id":115,
+        "Localidade":"Guaraciaba",
+        "Faixa de CEP":"89920-000 a 89924-999"
+    },
+    {
+        "Id":116,
+        "Localidade":"Guaramirim",
+        "Faixa de CEP":"89270-000 a 89274-999"
+    },
+    {
+        "Id":117,
+        "Localidade":"Guaruj\u00e1 do Sul",
+        "Faixa de CEP":"89940-000 a 89949-999"
+    },
+    {
+        "Id":118,
+        "Localidade":"Guatamb\u00fa",
+        "Faixa de CEP":"89817-000 a 89817-999"
+    },
+    {
+        "Id":119,
+        "Localidade":"Herval D'Oeste",
+        "Faixa de CEP":"89610-000 a 89612-999"
+    },
+    {
+        "Id":120,
+        "Localidade":"Ibiam",
+        "Faixa de CEP":"89652-000 a 89653-999"
+    },
+    {
+        "Id":121,
+        "Localidade":"Ibicar\u00e9",
+        "Faixa de CEP":"89640-000 a 89641-999"
+    },
+    {
+        "Id":122,
+        "Localidade":"Ibirama",
+        "Faixa de CEP":"89140-000 a 89144-999"
+    },
+    {
+        "Id":123,
+        "Localidade":"I\u00e7ara",
+        "Faixa de CEP":"88820-000 a 88827-999"
+    },
+    {
+        "Id":124,
+        "Localidade":"Ilhota",
+        "Faixa de CEP":"88320-000 a 88329-999"
+    },
+    {
+        "Id":125,
+        "Localidade":"Imaru\u00ed",
+        "Faixa de CEP":"88770-000 a 88779-999"
+    },
+    {
+        "Id":126,
+        "Localidade":"Imbituba",
+        "Faixa de CEP":"88780-000 a 88789-999"
+    },
+    {
+        "Id":127,
+        "Localidade":"Imbuia",
+        "Faixa de CEP":"88440-000 a 88442-999"
+    },
+    {
+        "Id":128,
+        "Localidade":"Indaial",
+        "Faixa de CEP":"89080-001 a 89099-999"
+    },
+    {
+        "Id":129,
+        "Localidade":"Indaial",
+        "Faixa de CEP":"89080-001 a 89089-999"
+    },
+    {
+        "Id":130,
+        "Localidade":"Iomer\u00ea",
+        "Faixa de CEP":"89558-000 a 89559-999"
+    },
+    {
+        "Id":131,
+        "Localidade":"Ipira",
+        "Faixa de CEP":"89669-000 a 89669-999"
+    },
+    {
+        "Id":132,
+        "Localidade":"Ipor\u00e3 do Oeste",
+        "Faixa de CEP":"89899-000 a 89899-999"
+    },
+    {
+        "Id":133,
+        "Localidade":"Ipua\u00e7u",
+        "Faixa de CEP":"89832-000 a 89833-999"
+    },
+    {
+        "Id":134,
+        "Localidade":"Ipumirim",
+        "Faixa de CEP":"89790-000 a 89799-999"
+    },
+    {
+        "Id":135,
+        "Localidade":"Iraceminha",
+        "Faixa de CEP":"89891-000 a 89892-999"
+    },
+    {
+        "Id":136,
+        "Localidade":"Irani",
+        "Faixa de CEP":"89680-000 a 89682-999"
+    },
+    {
+        "Id":137,
+        "Localidade":"Irati",
+        "Faixa de CEP":"89856-000 a 89858-999"
+    },
+    {
+        "Id":138,
+        "Localidade":"Irine\u00f3polis",
+        "Faixa de CEP":"89440-000 a 89459-999"
+    },
+    {
+        "Id":139,
+        "Localidade":"It\u00e1",
+        "Faixa de CEP":"89760-000 a 89764-999"
+    },
+    {
+        "Id":140,
+        "Localidade":"Itai\u00f3polis",
+        "Faixa de CEP":"89340-000 a 89369-999"
+    },
+    {
+        "Id":141,
+        "Localidade":"Itaja\u00ed",
+        "Faixa de CEP":"88300-001 a 88319-999"
+    },
+    {
+        "Id":142,
+        "Localidade":"Itaja\u00ed",
+        "Faixa de CEP":"88300-001 a 88319-999"
+    },
+    {
+        "Id":143,
+        "Localidade":"Itapema",
+        "Faixa de CEP":"88220-000 a 88229-999"
+    },
+    {
+        "Id":144,
+        "Localidade":"Itapiranga",
+        "Faixa de CEP":"89896-000 a 89896-999"
+    },
+    {
+        "Id":145,
+        "Localidade":"Itapo\u00e1",
+        "Faixa de CEP":"89249-000 a 89249-999"
+    },
+    {
+        "Id":146,
+        "Localidade":"Ituporanga",
+        "Faixa de CEP":"88400-000 a 88406-999"
+    },
+    {
+        "Id":147,
+        "Localidade":"Jabor\u00e1",
+        "Faixa de CEP":"89677-000 a 89679-999"
+    },
+    {
+        "Id":148,
+        "Localidade":"Jacinto Machado",
+        "Faixa de CEP":"88950-000 a 88954-999"
+    },
+    {
+        "Id":149,
+        "Localidade":"Jaguaruna",
+        "Faixa de CEP":"88715-000 a 88716-999"
+    },
+    {
+        "Id":150,
+        "Localidade":"Jaragu\u00e1 do Sul",
+        "Faixa de CEP":"89250-001 a 89269-999"
+    },
+    {
+        "Id":151,
+        "Localidade":"Jaragu\u00e1 do Sul",
+        "Faixa de CEP":"89250-001 a 89269-999"
+    },
+    {
+        "Id":152,
+        "Localidade":"Jardin\u00f3polis",
+        "Faixa de CEP":"89848-000 a 89849-999"
+    },
+    {
+        "Id":153,
+        "Localidade":"Joa\u00e7aba",
+        "Faixa de CEP":"89600-000 a 89608-999"
+    },
+    {
+        "Id":154,
+        "Localidade":"Joinville",
+        "Faixa de CEP":"89200-001 a 89239-999"
+    },
+    {
+        "Id":155,
+        "Localidade":"Joinville",
+        "Faixa de CEP":"89200-001 a 89239-999"
+    },
+    {
+        "Id":156,
+        "Localidade":"Jos\u00e9 Boiteux",
+        "Faixa de CEP":"89145-000 a 89147-999"
+    },
+    {
+        "Id":157,
+        "Localidade":"Jupi\u00e1",
+        "Faixa de CEP":"89839-000 a 89839-999"
+    },
+    {
+        "Id":158,
+        "Localidade":"Lacerd\u00f3polis",
+        "Faixa de CEP":"89660-000 a 89662-999"
+    },
+    {
+        "Id":159,
+        "Localidade":"Lages",
+        "Faixa de CEP":"88500-001 a 88534-999"
+    },
+    {
+        "Id":160,
+        "Localidade":"Lages",
+        "Faixa de CEP":"88500-001 a 88531-999"
+    },
+    {
+        "Id":161,
+        "Localidade":"Laguna",
+        "Faixa de CEP":"88790-000 a 88797-999"
+    },
+    {
+        "Id":162,
+        "Localidade":"Lajeado Grande",
+        "Faixa de CEP":"89828-000 a 89829-999"
+    },
+    {
+        "Id":163,
+        "Localidade":"Laurentino",
+        "Faixa de CEP":"89170-000 a 89171-999"
+    },
+    {
+        "Id":164,
+        "Localidade":"Lauro M\u00fcller",
+        "Faixa de CEP":"88880-000 a 88889-999"
+    },
+    {
+        "Id":165,
+        "Localidade":"Lebon R\u00e9gis",
+        "Faixa de CEP":"89515-000 a 89517-999"
+    },
+    {
+        "Id":166,
+        "Localidade":"Leoberto Leal",
+        "Faixa de CEP":"88445-000 a 88449-999"
+    },
+    {
+        "Id":167,
+        "Localidade":"Lind\u00f3ia do Sul",
+        "Faixa de CEP":"89735-000 a 89739-999"
+    },
+    {
+        "Id":168,
+        "Localidade":"Lontras",
+        "Faixa de CEP":"89182-000 a 89183-999"
+    },
+    {
+        "Id":169,
+        "Localidade":"Luiz Alves",
+        "Faixa de CEP":"89128-000 a 89129-999"
+    },
+    {
+        "Id":170,
+        "Localidade":"Luzerna",
+        "Faixa de CEP":"89609-000 a 89609-999"
+    },
+    {
+        "Id":171,
+        "Localidade":"Macieira",
+        "Faixa de CEP":"89518-000 a 89519-999"
+    },
+    {
+        "Id":172,
+        "Localidade":"Mafra",
+        "Faixa de CEP":"89300-001 a 89339-999"
+    },
+    {
+        "Id":173,
+        "Localidade":"Mafra",
+        "Faixa de CEP":"89300-001 a 89309-999"
+    },
+    {
+        "Id":174,
+        "Localidade":"Major Gercino",
+        "Faixa de CEP":"88260-000 a 88269-999"
+    },
+    {
+        "Id":175,
+        "Localidade":"Major Vieira",
+        "Faixa de CEP":"89480-000 a 89489-999"
+    },
+    {
+        "Id":176,
+        "Localidade":"Maracaj\u00e1",
+        "Faixa de CEP":"88915-000 a 88919-999"
+    },
+    {
+        "Id":177,
+        "Localidade":"Maravilha",
+        "Faixa de CEP":"89874-000 a 89874-999"
+    },
+    {
+        "Id":178,
+        "Localidade":"Marema",
+        "Faixa de CEP":"89860-000 a 89861-999"
+    },
+    {
+        "Id":179,
+        "Localidade":"Massaranduba",
+        "Faixa de CEP":"89108-000 a 89109-999"
+    },
+    {
+        "Id":180,
+        "Localidade":"Matos Costa",
+        "Faixa de CEP":"89420-000 a 89429-999"
+    },
+    {
+        "Id":181,
+        "Localidade":"Meleiro",
+        "Faixa de CEP":"88920-000 a 88924-999"
+    },
+    {
+        "Id":182,
+        "Localidade":"Mirim Doce",
+        "Faixa de CEP":"89194-000 a 89195-999"
+    },
+    {
+        "Id":183,
+        "Localidade":"Modelo",
+        "Faixa de CEP":"89872-000 a 89872-999"
+    },
+    {
+        "Id":184,
+        "Localidade":"Monda\u00ed",
+        "Faixa de CEP":"89893-000 a 89894-999"
+    },
+    {
+        "Id":185,
+        "Localidade":"Monte Carlo",
+        "Faixa de CEP":"89618-000 a 89619-999"
+    },
+    {
+        "Id":186,
+        "Localidade":"Monte Castelo",
+        "Faixa de CEP":"89380-000 a 89399-999"
+    },
+    {
+        "Id":187,
+        "Localidade":"Morro da Fuma\u00e7a",
+        "Faixa de CEP":"88830-000 a 88839-999"
+    },
+    {
+        "Id":188,
+        "Localidade":"Morro Grande",
+        "Faixa de CEP":"88925-000 a 88929-999"
+    },
+    {
+        "Id":189,
+        "Localidade":"Navegantes",
+        "Faixa de CEP":"88370-001 a 88379-999"
+    },
+    {
+        "Id":190,
+        "Localidade":"Navegantes",
+        "Faixa de CEP":"88370-001 a 88379-999"
+    },
+    {
+        "Id":191,
+        "Localidade":"Nova Erechim",
+        "Faixa de CEP":"89865-000 a 89867-999"
+    },
+    {
+        "Id":192,
+        "Localidade":"Nova Itaberaba",
+        "Faixa de CEP":"89818-000 a 89818-999"
+    },
+    {
+        "Id":193,
+        "Localidade":"Nova Trento",
+        "Faixa de CEP":"88270-000 a 88294-999"
+    },
+    {
+        "Id":194,
+        "Localidade":"Nova Veneza",
+        "Faixa de CEP":"88865-000 a 88869-999"
+    },
+    {
+        "Id":195,
+        "Localidade":"Novo Horizonte",
+        "Faixa de CEP":"89998-000 a 89999-999"
+    },
+    {
+        "Id":196,
+        "Localidade":"Orleans",
+        "Faixa de CEP":"88870-000 a 88879-999"
+    },
+    {
+        "Id":197,
+        "Localidade":"Otac\u00edlio Costa",
+        "Faixa de CEP":"88540-000 a 88542-999"
+    },
+    {
+        "Id":198,
+        "Localidade":"Ouro",
+        "Faixa de CEP":"89663-000 a 89664-999"
+    },
+    {
+        "Id":199,
+        "Localidade":"Ouro Verde",
+        "Faixa de CEP":"89834-000 a 89834-999"
+    },
+    {
+        "Id":200,
+        "Localidade":"Paial",
+        "Faixa de CEP":"89765-000 a 89769-999"
+    },
+    {
+        "Id":201,
+        "Localidade":"Painel",
+        "Faixa de CEP":"88543-000 a 88544-999"
+    },
+    {
+        "Id":202,
+        "Localidade":"Palho\u00e7a",
+        "Faixa de CEP":"88130-001 a 88139-999"
+    },
+    {
+        "Id":203,
+        "Localidade":"Palho\u00e7a",
+        "Faixa de CEP":"88130-001 a 88139-999"
+    },
+    {
+        "Id":204,
+        "Localidade":"Palma Sola",
+        "Faixa de CEP":"89985-000 a 89989-999"
+    },
+    {
+        "Id":205,
+        "Localidade":"Palmeira",
+        "Faixa de CEP":"88545-000 a 88547-999"
+    },
+    {
+        "Id":206,
+        "Localidade":"Palmitos",
+        "Faixa de CEP":"89887-000 a 89887-999"
+    },
+    {
+        "Id":207,
+        "Localidade":"Papanduva",
+        "Faixa de CEP":"89370-000 a 89379-999"
+    },
+    {
+        "Id":208,
+        "Localidade":"Para\u00edso",
+        "Faixa de CEP":"89906-000 a 89907-999"
+    },
+    {
+        "Id":209,
+        "Localidade":"Passo de Torres",
+        "Faixa de CEP":"88980-000 a 88989-999"
+    },
+    {
+        "Id":210,
+        "Localidade":"Passos Maia",
+        "Faixa de CEP":"89687-000 a 89689-999"
+    },
+    {
+        "Id":211,
+        "Localidade":"Paulo Lopes",
+        "Faixa de CEP":"88490-000 a 88494-999"
+    },
+    {
+        "Id":212,
+        "Localidade":"Pedras Grandes",
+        "Faixa de CEP":"88720-000 a 88729-999"
+    },
+    {
+        "Id":213,
+        "Localidade":"Penha",
+        "Faixa de CEP":"88385-000 a 88389-999"
+    },
+    {
+        "Id":214,
+        "Localidade":"Peritiba",
+        "Faixa de CEP":"89750-000 a 89759-999"
+    },
+    {
+        "Id":215,
+        "Localidade":"Pescaria Brava",
+        "Faixa de CEP":"88798-000 a 88799-999"
+    },
+    {
+        "Id":216,
+        "Localidade":"Petrol\u00e2ndia",
+        "Faixa de CEP":"88430-000 a 88439-999"
+    },
+    {
+        "Id":217,
+        "Localidade":"Pinhalzinho",
+        "Faixa de CEP":"89870-000 a 89870-999"
+    },
+    {
+        "Id":218,
+        "Localidade":"Pinheiro Preto",
+        "Faixa de CEP":"89570-000 a 89579-999"
+    },
+    {
+        "Id":219,
+        "Localidade":"Piratuba",
+        "Faixa de CEP":"89667-000 a 89668-999"
+    },
+    {
+        "Id":220,
+        "Localidade":"Planalto Alegre",
+        "Faixa de CEP":"89882-000 a 89882-999"
+    },
+    {
+        "Id":221,
+        "Localidade":"Pomerode",
+        "Faixa de CEP":"89107-000 a 89107-999"
+    },
+    {
+        "Id":222,
+        "Localidade":"Ponte Alta",
+        "Faixa de CEP":"88550-000 a 88569-999"
+    },
+    {
+        "Id":223,
+        "Localidade":"Ponte Alta do Norte",
+        "Faixa de CEP":"89535-000 a 89539-999"
+    },
+    {
+        "Id":224,
+        "Localidade":"Ponte Serrada",
+        "Faixa de CEP":"89683-000 a 89686-999"
+    },
+    {
+        "Id":225,
+        "Localidade":"Porto Belo",
+        "Faixa de CEP":"88210-000 a 88214-999"
+    },
+    {
+        "Id":226,
+        "Localidade":"Porto Uni\u00e3o",
+        "Faixa de CEP":"89400-000 a 89419-999"
+    },
+    {
+        "Id":227,
+        "Localidade":"Pouso Redondo",
+        "Faixa de CEP":"89172-000 a 89175-999"
+    },
+    {
+        "Id":228,
+        "Localidade":"Praia Grande",
+        "Faixa de CEP":"88990-000 a 88999-999"
+    },
+    {
+        "Id":229,
+        "Localidade":"Presidente Castello Branco",
+        "Faixa de CEP":"89745-000 a 89749-999"
+    },
+    {
+        "Id":230,
+        "Localidade":"Presidente Get\u00falio",
+        "Faixa de CEP":"89150-000 a 89154-999"
+    },
+    {
+        "Id":231,
+        "Localidade":"Presidente Nereu",
+        "Faixa de CEP":"89184-000 a 89185-999"
+    },
+    {
+        "Id":232,
+        "Localidade":"Princesa",
+        "Faixa de CEP":"89935-000 a 89939-999"
+    },
+    {
+        "Id":233,
+        "Localidade":"Quilombo",
+        "Faixa de CEP":"89850-000 a 89853-999"
+    },
+    {
+        "Id":234,
+        "Localidade":"Rancho Queimado",
+        "Faixa de CEP":"88470-000 a 88474-999"
+    },
+    {
+        "Id":235,
+        "Localidade":"Rio das Antas",
+        "Faixa de CEP":"89550-000 a 89557-999"
+    },
+    {
+        "Id":236,
+        "Localidade":"Rio do Campo",
+        "Faixa de CEP":"89198-000 a 89198-999"
+    },
+    {
+        "Id":237,
+        "Localidade":"Rio do Oeste",
+        "Faixa de CEP":"89180-000 a 89181-999"
+    },
+    {
+        "Id":238,
+        "Localidade":"Rio do Sul",
+        "Faixa de CEP":"89160-001 a 89169-999"
+    },
+    {
+        "Id":239,
+        "Localidade":"Rio do Sul",
+        "Faixa de CEP":"89160-001 a 89169-999"
+    },
+    {
+        "Id":240,
+        "Localidade":"Rio dos Cedros",
+        "Faixa de CEP":"89121-000 a 89123-999"
+    },
+    {
+        "Id":241,
+        "Localidade":"Rio Fortuna",
+        "Faixa de CEP":"88760-000 a 88762-999"
+    },
+    {
+        "Id":242,
+        "Localidade":"Rio Negrinho",
+        "Faixa de CEP":"89295-000 a 89299-999"
+    },
+    {
+        "Id":243,
+        "Localidade":"Rio Rufino",
+        "Faixa de CEP":"88658-000 a 88679-999"
+    },
+    {
+        "Id":244,
+        "Localidade":"Riqueza",
+        "Faixa de CEP":"89895-000 a 89895-999"
+    },
+    {
+        "Id":245,
+        "Localidade":"Rodeio",
+        "Faixa de CEP":"89136-000 a 89137-999"
+    },
+    {
+        "Id":246,
+        "Localidade":"Romel\u00e2ndia",
+        "Faixa de CEP":"89908-000 a 89908-999"
+    },
+    {
+        "Id":247,
+        "Localidade":"Salete",
+        "Faixa de CEP":"89196-000 a 89197-999"
+    },
+    {
+        "Id":248,
+        "Localidade":"Saltinho",
+        "Faixa de CEP":"89981-000 a 89981-999"
+    },
+    {
+        "Id":249,
+        "Localidade":"Salto Veloso",
+        "Faixa de CEP":"89595-000 a 89599-999"
+    },
+    {
+        "Id":250,
+        "Localidade":"Sang\u00e3o",
+        "Faixa de CEP":"88717-000 a 88719-999"
+    },
+    {
+        "Id":251,
+        "Localidade":"Santa Cec\u00edlia",
+        "Faixa de CEP":"89540-000 a 89544-999"
+    },
+    {
+        "Id":252,
+        "Localidade":"Santa Helena",
+        "Faixa de CEP":"89915-000 a 89919-999"
+    },
+    {
+        "Id":253,
+        "Localidade":"Santa Rosa de Lima",
+        "Faixa de CEP":"88763-000 a 88764-999"
+    },
+    {
+        "Id":254,
+        "Localidade":"Santa Rosa do Sul",
+        "Faixa de CEP":"88965-000 a 88969-999"
+    },
+    {
+        "Id":255,
+        "Localidade":"Santa Terezinha",
+        "Faixa de CEP":"89199-000 a 89199-999"
+    },
+    {
+        "Id":256,
+        "Localidade":"Santa Terezinha do Progresso",
+        "Faixa de CEP":"89983-000 a 89984-999"
+    },
+    {
+        "Id":257,
+        "Localidade":"Santiago do Sul",
+        "Faixa de CEP":"89854-000 a 89854-999"
+    },
+    {
+        "Id":258,
+        "Localidade":"Santo Amaro da Imperatriz",
+        "Faixa de CEP":"88140-000 a 88149-999"
+    },
+    {
+        "Id":259,
+        "Localidade":"S\u00e3o Bento do Sul",
+        "Faixa de CEP":"89280-001 a 89293-999"
+    },
+    {
+        "Id":260,
+        "Localidade":"S\u00e3o Bento do Sul",
+        "Faixa de CEP":"89280-001 a 89293-999"
+    },
+    {
+        "Id":261,
+        "Localidade":"S\u00e3o Bernardino",
+        "Faixa de CEP":"89982-000 a 89982-999"
+    },
+    {
+        "Id":262,
+        "Localidade":"S\u00e3o Bonif\u00e1cio",
+        "Faixa de CEP":"88485-000 a 88489-999"
+    },
+    {
+        "Id":263,
+        "Localidade":"S\u00e3o Carlos",
+        "Faixa de CEP":"89885-000 a 89885-999"
+    },
+    {
+        "Id":264,
+        "Localidade":"S\u00e3o Crist\u00f3v\u00e3o do Sul",
+        "Faixa de CEP":"89533-000 a 89534-999"
+    },
+    {
+        "Id":265,
+        "Localidade":"S\u00e3o Domingos",
+        "Faixa de CEP":"89835-000 a 89836-999"
+    },
+    {
+        "Id":266,
+        "Localidade":"S\u00e3o Francisco do Sul",
+        "Faixa de CEP":"89240-000 a 89244-999"
+    },
+    {
+        "Id":267,
+        "Localidade":"S\u00e3o Jo\u00e3o Batista",
+        "Faixa de CEP":"88240-000 a 88259-999"
+    },
+    {
+        "Id":268,
+        "Localidade":"S\u00e3o Jo\u00e3o do Itaperi\u00fa",
+        "Faixa de CEP":"88395-000 a 88399-999"
+    },
+    {
+        "Id":269,
+        "Localidade":"S\u00e3o Jo\u00e3o do Oeste",
+        "Faixa de CEP":"89897-000 a 89897-999"
+    },
+    {
+        "Id":270,
+        "Localidade":"S\u00e3o Jo\u00e3o do Sul",
+        "Faixa de CEP":"88970-000 a 88979-999"
+    },
+    {
+        "Id":271,
+        "Localidade":"S\u00e3o Joaquim",
+        "Faixa de CEP":"88600-000 a 88624-999"
+    },
+    {
+        "Id":272,
+        "Localidade":"S\u00e3o Jos\u00e9",
+        "Faixa de CEP":"88100-001 a 88124-999"
+    },
+    {
+        "Id":273,
+        "Localidade":"S\u00e3o Jos\u00e9",
+        "Faixa de CEP":"88100-001 a 88123-999"
+    },
+    {
+        "Id":274,
+        "Localidade":"S\u00e3o Jos\u00e9 do Cedro",
+        "Faixa de CEP":"89930-000 a 89934-999"
+    },
+    {
+        "Id":275,
+        "Localidade":"S\u00e3o Jos\u00e9 do Cerrito",
+        "Faixa de CEP":"88570-000 a 88579-999"
+    },
+    {
+        "Id":276,
+        "Localidade":"S\u00e3o Louren\u00e7o do Oeste",
+        "Faixa de CEP":"89990-000 a 89997-999"
+    },
+    {
+        "Id":277,
+        "Localidade":"S\u00e3o Ludgero",
+        "Faixa de CEP":"88730-000 a 88734-999"
+    },
+    {
+        "Id":278,
+        "Localidade":"S\u00e3o Martinho",
+        "Faixa de CEP":"88765-000 a 88769-999"
+    },
+    {
+        "Id":279,
+        "Localidade":"S\u00e3o Miguel da Boa Vista",
+        "Faixa de CEP":"89879-000 a 89879-999"
+    },
+    {
+        "Id":280,
+        "Localidade":"S\u00e3o Miguel do Oeste",
+        "Faixa de CEP":"89900-000 a 89904-999"
+    },
+    {
+        "Id":281,
+        "Localidade":"S\u00e3o Pedro de Alc\u00e2ntara",
+        "Faixa de CEP":"88125-000 a 88129-999"
+    },
+    {
+        "Id":282,
+        "Localidade":"Saudades",
+        "Faixa de CEP":"89868-000 a 89869-999"
+    },
+    {
+        "Id":283,
+        "Localidade":"Schroeder",
+        "Faixa de CEP":"89275-000 a 89277-999"
+    },
+    {
+        "Id":284,
+        "Localidade":"Seara",
+        "Faixa de CEP":"89770-000 a 89777-999"
+    },
+    {
+        "Id":285,
+        "Localidade":"Serra Alta",
+        "Faixa de CEP":"89871-000 a 89871-999"
+    },
+    {
+        "Id":286,
+        "Localidade":"Sider\u00f3polis",
+        "Faixa de CEP":"88860-000 a 88861-999"
+    },
+    {
+        "Id":287,
+        "Localidade":"Sombrio",
+        "Faixa de CEP":"88960-000 a 88964-999"
+    },
+    {
+        "Id":288,
+        "Localidade":"Sul Brasil",
+        "Faixa de CEP":"89855-000 a 89855-999"
+    },
+    {
+        "Id":289,
+        "Localidade":"Tai\u00f3",
+        "Faixa de CEP":"89190-000 a 89193-999"
+    },
+    {
+        "Id":290,
+        "Localidade":"Tangar\u00e1",
+        "Faixa de CEP":"89642-000 a 89649-999"
+    },
+    {
+        "Id":291,
+        "Localidade":"Tigrinhos",
+        "Faixa de CEP":"89875-000 a 89877-999"
+    },
+    {
+        "Id":292,
+        "Localidade":"Tijucas",
+        "Faixa de CEP":"88200-000 a 88209-999"
+    },
+    {
+        "Id":293,
+        "Localidade":"Timb\u00e9 do Sul",
+        "Faixa de CEP":"88940-000 a 88949-999"
+    },
+    {
+        "Id":294,
+        "Localidade":"Timb\u00f3",
+        "Faixa de CEP":"89120-000 a 89120-999"
+    },
+    {
+        "Id":295,
+        "Localidade":"Timb\u00f3 Grande",
+        "Faixa de CEP":"89545-000 a 89549-999"
+    },
+    {
+        "Id":296,
+        "Localidade":"Tr\u00eas Barras",
+        "Faixa de CEP":"89490-000 a 89499-999"
+    },
+    {
+        "Id":297,
+        "Localidade":"Treviso",
+        "Faixa de CEP":"88862-000 a 88864-999"
+    },
+    {
+        "Id":298,
+        "Localidade":"Treze de Maio",
+        "Faixa de CEP":"88710-000 a 88714-999"
+    },
+    {
+        "Id":299,
+        "Localidade":"Treze T\u00edlias",
+        "Faixa de CEP":"89650-000 a 89651-999"
+    },
+    {
+        "Id":300,
+        "Localidade":"Trombudo Central",
+        "Faixa de CEP":"89176-000 a 89177-999"
+    },
+    {
+        "Id":301,
+        "Localidade":"Tubar\u00e3o",
+        "Faixa de CEP":"88700-001 a 88709-999"
+    },
+    {
+        "Id":302,
+        "Localidade":"Tubar\u00e3o",
+        "Faixa de CEP":"88700-001 a 88709-999"
+    },
+    {
+        "Id":303,
+        "Localidade":"Tun\u00e1polis",
+        "Faixa de CEP":"89898-000 a 89898-999"
+    },
+    {
+        "Id":304,
+        "Localidade":"Turvo",
+        "Faixa de CEP":"88930-000 a 88934-999"
+    },
+    {
+        "Id":305,
+        "Localidade":"Uni\u00e3o do Oeste",
+        "Faixa de CEP":"89845-000 a 89847-999"
+    },
+    {
+        "Id":306,
+        "Localidade":"Urubici",
+        "Faixa de CEP":"88650-000 a 88657-999"
+    },
+    {
+        "Id":307,
+        "Localidade":"Urupema",
+        "Faixa de CEP":"88625-000 a 88639-999"
+    },
+    {
+        "Id":308,
+        "Localidade":"Urussanga",
+        "Faixa de CEP":"88840-000 a 88844-999"
+    },
+    {
+        "Id":309,
+        "Localidade":"Varge\u00e3o",
+        "Faixa de CEP":"89690-000 a 89693-999"
+    },
+    {
+        "Id":310,
+        "Localidade":"Vargem",
+        "Faixa de CEP":"89638-000 a 89639-999"
+    },
+    {
+        "Id":311,
+        "Localidade":"Vargem Bonita",
+        "Faixa de CEP":"89675-000 a 89676-999"
+    },
+    {
+        "Id":312,
+        "Localidade":"Vidal Ramos",
+        "Faixa de CEP":"88443-000 a 88444-999"
+    },
+    {
+        "Id":313,
+        "Localidade":"Videira",
+        "Faixa de CEP":"89560-001 a 89569-999"
+    },
+    {
+        "Id":314,
+        "Localidade":"Videira",
+        "Faixa de CEP":"89560-001 a 89567-999"
+    },
+    {
+        "Id":315,
+        "Localidade":"Vitor Meireles",
+        "Faixa de CEP":"89148-000 a 89149-999"
+    },
+    {
+        "Id":316,
+        "Localidade":"Witmarsum",
+        "Faixa de CEP":"89157-000 a 89159-999"
+    },
+    {
+        "Id":317,
+        "Localidade":"Xanxer\u00ea",
+        "Faixa de CEP":"89820-000 a 89823-999"
+    },
+    {
+        "Id":318,
+        "Localidade":"Xavantina",
+        "Faixa de CEP":"89780-000 a 89789-999"
+    },
+    {
+        "Id":319,
+        "Localidade":"Xaxim",
+        "Faixa de CEP":"89825-000 a 89827-999"
+    },
+    {
+        "Id":320,
+        "Localidade":"Zort\u00e9a",
+        "Faixa de CEP":"89633-000 a 89633-999"
+    },
+    {
+        "Id":321,
+        "Localidade":"Treze T\u00edlias",
+        "Faixa de CEP":"89650-000 a 89651-999"
+    },
+    {
+        "Id":322,
+        "Localidade":"Trombudo Central",
+        "Faixa de CEP":"89176-000 a 89177-999"
+    },
+    {
+        "Id":323,
+        "Localidade":"Tubar\u00e3o",
+        "Faixa de CEP":"88700-001 a 88709-999"
+    },
+    {
+        "Id":324,
+        "Localidade":"Tubar\u00e3o",
+        "Faixa de CEP":"88700-001 a 88709-999"
+    },
+    {
+        "Id":325,
+        "Localidade":"Tun\u00e1polis",
+        "Faixa de CEP":"89898-000 a 89898-999"
+    },
+    {
+        "Id":326,
+        "Localidade":"Turvo",
+        "Faixa de CEP":"88930-000 a 88934-999"
+    },
+    {
+        "Id":327,
+        "Localidade":"Uni\u00e3o do Oeste",
+        "Faixa de CEP":"89845-000 a 89847-999"
+    },
+    {
+        "Id":328,
+        "Localidade":"Urubici",
+        "Faixa de CEP":"88650-000 a 88657-999"
+    },
+    {
+        "Id":329,
+        "Localidade":"Urupema",
+        "Faixa de CEP":"88625-000 a 88639-999"
+    },
+    {
+        "Id":330,
+        "Localidade":"Urussanga",
+        "Faixa de CEP":"88840-000 a 88844-999"
+    },
+    {
+        "Id":331,
+        "Localidade":"Varge\u00e3o",
+        "Faixa de CEP":"89690-000 a 89693-999"
+    },
+    {
+        "Id":332,
+        "Localidade":"Vargem",
+        "Faixa de CEP":"89638-000 a 89639-999"
+    },
+    {
+        "Id":333,
+        "Localidade":"Vargem Bonita",
+        "Faixa de CEP":"89675-000 a 89676-999"
+    },
+    {
+        "Id":334,
+        "Localidade":"Vidal Ramos",
+        "Faixa de CEP":"88443-000 a 88444-999"
+    },
+    {
+        "Id":335,
+        "Localidade":"Videira",
+        "Faixa de CEP":"89560-001 a 89569-999"
+    },
+    {
+        "Id":336,
+        "Localidade":"Videira",
+        "Faixa de CEP":"89560-001 a 89567-999"
+    },
+    {
+        "Id":337,
+        "Localidade":"Vitor Meireles",
+        "Faixa de CEP":"89148-000 a 89149-999"
+    },
+    {
+        "Id":338,
+        "Localidade":"Witmarsum",
+        "Faixa de CEP":"89157-000 a 89159-999"
+    },
+    {
+        "Id":339,
+        "Localidade":"Xanxer\u00ea",
+        "Faixa de CEP":"89820-000 a 89823-999"
+    },
+    {
+        "Id":340,
+        "Localidade":"Xavantina",
+        "Faixa de CEP":"89780-000 a 89789-999"
+    },
+    {
+        "Id":341,
+        "Localidade":"Xaxim",
+        "Faixa de CEP":"89825-000 a 89827-999"
+    },
+    {
+        "Id":342,
+        "Localidade":"Zort\u00e9a",
+        "Faixa de CEP":"89633-000 a 89633-999"
+    }
+]

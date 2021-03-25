@@ -1,0 +1,342 @@
+[
+    {
+        "Id":0,
+        "Localidade":"Abadia de Goi\u00e1s",
+        "Faixa de CEP":"75345-000 a 75349-999"
+    },
+    {
+        "Id":1,
+        "Localidade":"Abadi\u00e2nia",
+        "Faixa de CEP":"72940-000 a 72959-999"
+    },
+    {
+        "Id":2,
+        "Localidade":"Acre\u00fana",
+        "Faixa de CEP":"75960-000 a 75969-999"
+    },
+    {
+        "Id":3,
+        "Localidade":"Adel\u00e2ndia",
+        "Faixa de CEP":"76155-000 a 76159-999"
+    },
+    {
+        "Id":4,
+        "Localidade":"\u00c1gua Fria de Goi\u00e1s",
+        "Faixa de CEP":"73780-000 a 73789-999"
+    },
+    {
+        "Id":5,
+        "Localidade":"\u00c1gua Limpa",
+        "Faixa de CEP":"75665-000 a 75666-999"
+    },
+    {
+        "Id":6,
+        "Localidade":"\u00c1guas Lindas de Goi\u00e1s",
+        "Faixa de CEP":"72910-001 a 72929-999"
+    },
+    {
+        "Id":7,
+        "Localidade":"\u00c1guas Lindas de Goi\u00e1s",
+        "Faixa de CEP":"72910-001 a 72929-999"
+    },
+    {
+        "Id":8,
+        "Localidade":"Alex\u00e2nia",
+        "Faixa de CEP":"72930-000 a 72939-999"
+    },
+    {
+        "Id":9,
+        "Localidade":"Alo\u00e2ndia",
+        "Faixa de CEP":"75615-000 a 75619-999"
+    },
+    {
+        "Id":10,
+        "Localidade":"Alto Horizonte",
+        "Faixa de CEP":"76560-000 a 76579-999"
+    },
+    {
+        "Id":11,
+        "Localidade":"Alto Para\u00edso de Goi\u00e1s",
+        "Faixa de CEP":"73770-000 a 73779-999"
+    },
+    {
+        "Id":12,
+        "Localidade":"Alvorada do Norte",
+        "Faixa de CEP":"73950-000 a 73969-999"
+    },
+    {
+        "Id":13,
+        "Localidade":"Amaralina",
+        "Faixa de CEP":"76493-000 a 76494-999"
+    },
+    {
+        "Id":14,
+        "Localidade":"Americano do Brasil",
+        "Faixa de CEP":"76165-000 a 76169-999"
+    },
+    {
+        "Id":15,
+        "Localidade":"Amorin\u00f3polis",
+        "Faixa de CEP":"76140-000 a 76144-999"
+    },
+    {
+        "Id":16,
+        "Localidade":"An\u00e1polis",
+        "Faixa de CEP":"75000-001 a 75159-999"
+    },
+    {
+        "Id":17,
+        "Localidade":"An\u00e1polis",
+        "Faixa de CEP":"75000-001 a 75149-999"
+    },
+    {
+        "Id":18,
+        "Localidade":"Anhang\u00fcera",
+        "Faixa de CEP":"75770-000 a 75779-999"
+    },
+    {
+        "Id":19,
+        "Localidade":"Anicuns",
+        "Faixa de CEP":"76170-000 a 76179-999"
+    },
+    {
+        "Id":20,
+        "Localidade":"Aparecida de Goi\u00e2nia",
+        "Faixa de CEP":"74900-001 a 74999-999"
+    },
+    {
+        "Id":21,
+        "Localidade":"Aparecida de Goi\u00e2nia",
+        "Faixa de CEP":"74900-001 a 74999-999"
+    },
+    {
+        "Id":22,
+        "Localidade":"Aparecida do Rio Doce",
+        "Faixa de CEP":"75827-000 a 75827-999"
+    },
+    {
+        "Id":23,
+        "Localidade":"Apor\u00e9",
+        "Faixa de CEP":"75825-000 a 75826-999"
+    },
+    {
+        "Id":24,
+        "Localidade":"Ara\u00e7u",
+        "Faixa de CEP":"75410-000 a 75419-999"
+    },
+    {
+        "Id":25,
+        "Localidade":"Aragar\u00e7as",
+        "Faixa de CEP":"76240-000 a 76244-999"
+    },
+    {
+        "Id":26,
+        "Localidade":"Aragoi\u00e2nia",
+        "Faixa de CEP":"75330-000 a 75339-999"
+    },
+    {
+        "Id":27,
+        "Localidade":"Araguapaz",
+        "Faixa de CEP":"76720-000 a 76729-999"
+    },
+    {
+        "Id":28,
+        "Localidade":"Aren\u00f3polis",
+        "Faixa de CEP":"76235-000 a 76239-999"
+    },
+    {
+        "Id":29,
+        "Localidade":"Aruan\u00e3",
+        "Faixa de CEP":"76710-000 a 76719-999"
+    },
+    {
+        "Id":30,
+        "Localidade":"Auril\u00e2ndia",
+        "Faixa de CEP":"76120-000 a 76124-999"
+    },
+    {
+        "Id":31,
+        "Localidade":"Avelin\u00f3polis",
+        "Faixa de CEP":"75395-000 a 75395-999"
+    },
+    {
+        "Id":32,
+        "Localidade":"Baliza",
+        "Faixa de CEP":"76250-000 a 76254-999"
+    },
+    {
+        "Id":33,
+        "Localidade":"Barro Alto",
+        "Faixa de CEP":"76390-000 a 76392-999"
+    },
+    {
+        "Id":34,
+        "Localidade":"Bela Vista de Goi\u00e1s",
+        "Faixa de CEP":"75240-000 a 75244-999"
+    },
+    {
+        "Id":35,
+        "Localidade":"Bom Jardim de Goi\u00e1s",
+        "Faixa de CEP":"76245-000 a 76249-999"
+    },
+    {
+        "Id":36,
+        "Localidade":"Bom Jesus",
+        "Faixa de CEP":"75570-000 a 75579-999"
+    },
+    {
+        "Id":37,
+        "Localidade":"Bonfin\u00f3polis",
+        "Faixa de CEP":"75195-000 a 75199-999"
+    },
+    {
+        "Id":38,
+        "Localidade":"Bon\u00f3polis",
+        "Faixa de CEP":"76555-000 a 76559-999"
+    },
+    {
+        "Id":39,
+        "Localidade":"Brazabrantes",
+        "Faixa de CEP":"75440-000 a 75449-999"
+    },
+    {
+        "Id":40,
+        "Localidade":"Brit\u00e2nia",
+        "Faixa de CEP":"76280-000 a 76284-999"
+    },
+    {
+        "Id":41,
+        "Localidade":"Buriti Alegre",
+        "Faixa de CEP":"75660-000 a 75664-999"
+    },
+    {
+        "Id":42,
+        "Localidade":"Buriti de Goi\u00e1s",
+        "Faixa de CEP":"76152-000 a 76154-999"
+    },
+    {
+        "Id":43,
+        "Localidade":"Buritin\u00f3polis",
+        "Faixa de CEP":"73975-000 a 73979-999"
+    },
+    {
+        "Id":44,
+        "Localidade":"Cabeceiras",
+        "Faixa de CEP":"73870-000 a 73889-999"
+    },
+    {
+        "Id":45,
+        "Localidade":"Cachoeira Alta",
+        "Faixa de CEP":"75870-000 a 75879-999"
+    },
+    {
+        "Id":46,
+        "Localidade":"Cachoeira de Goi\u00e1s",
+        "Faixa de CEP":"76125-000 a 76129-999"
+    },
+    {
+        "Id":47,
+        "Localidade":"Cachoeira Dourada",
+        "Faixa de CEP":"75560-000 a 75569-999"
+    },
+    {
+        "Id":48,
+        "Localidade":"Ca\u00e7u",
+        "Faixa de CEP":"75813-000 a 75814-999"
+    },
+    {
+        "Id":49,
+        "Localidade":"Teresina de Goi\u00e1s",
+        "Faixa de CEP":"73795-000 a 73799-999"
+    },
+    {
+        "Id":50,
+        "Localidade":"Terez\u00f3polis de Goi\u00e1s",
+        "Faixa de CEP":"75175-000 a 75179-999"
+    },
+    {
+        "Id":51,
+        "Localidade":"Tr\u00eas Ranchos",
+        "Faixa de CEP":"75720-000 a 75729-999"
+    },
+    {
+        "Id":52,
+        "Localidade":"Trindade",
+        "Faixa de CEP":"75380-001 a 75394-999"
+    },
+    {
+        "Id":53,
+        "Localidade":"Trindade",
+        "Faixa de CEP":"75380-001 a 75394-499"
+    },
+    {
+        "Id":54,
+        "Localidade":"Trombas",
+        "Faixa de CEP":"76460-000 a 76464-999"
+    },
+    {
+        "Id":55,
+        "Localidade":"Turv\u00e2nia",
+        "Faixa de CEP":"76110-000 a 76119-999"
+    },
+    {
+        "Id":56,
+        "Localidade":"Turvel\u00e2ndia",
+        "Faixa de CEP":"75970-000 a 75979-999"
+    },
+    {
+        "Id":57,
+        "Localidade":"Uirapuru",
+        "Faixa de CEP":"76525-000 a 76529-999"
+    },
+    {
+        "Id":58,
+        "Localidade":"Urua\u00e7u",
+        "Faixa de CEP":"76400-000 a 76409-999"
+    },
+    {
+        "Id":59,
+        "Localidade":"Uruana",
+        "Faixa de CEP":"76335-000 a 76339-999"
+    },
+    {
+        "Id":60,
+        "Localidade":"Uruta\u00ed",
+        "Faixa de CEP":"75790-000 a 75794-999"
+    },
+    {
+        "Id":61,
+        "Localidade":"Valpara\u00edso de Goi\u00e1s",
+        "Faixa de CEP":"72870-001 a 72879-999"
+    },
+    {
+        "Id":62,
+        "Localidade":"Valpara\u00edso de Goi\u00e1s",
+        "Faixa de CEP":"72870-001 a 72879-999"
+    },
+    {
+        "Id":63,
+        "Localidade":"Varj\u00e3o",
+        "Faixa de CEP":"75355-000 a 75359-999"
+    },
+    {
+        "Id":64,
+        "Localidade":"Vian\u00f3polis",
+        "Faixa de CEP":"75265-000 a 75279-999"
+    },
+    {
+        "Id":65,
+        "Localidade":"Vicentin\u00f3polis",
+        "Faixa de CEP":"75555-000 a 75559-999"
+    },
+    {
+        "Id":66,
+        "Localidade":"Vila Boa",
+        "Faixa de CEP":"73825-000 a 73829-999"
+    },
+    {
+        "Id":67,
+        "Localidade":"Vila Prop\u00edcio",
+        "Faixa de CEP":"76393-000 a 76394-999"
+    }
+]

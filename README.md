@@ -1,5 +1,5 @@
 # pirateTest
-Teste realizado para Neoway. Segue o link do teste: &lt;https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md>
+Teste realizado para Neoway. Segue o link do teste: https://github.com/NeowayLabs/jobs/blob/master/datapirates/challengePirates.md
 <h1>Introdução</h1>
 Para realizar teste com o código, ultilizar o modulo "main.py". 
 O modulo "teste.py" carrega toda a função para pegar as faixas de CEP de cada UF. É possivél de

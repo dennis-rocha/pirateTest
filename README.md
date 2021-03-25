@@ -7,6 +7,7 @@ criar uma tela para apresentar para o usuário com o "teste.py" (sem a necessida
 de comando para executar o código).
 <h1>Instrução</h1>
 1- Execute o comando para iniciar o código.
+
 No windows:
 	#Abrir a pasta através do CMD.
 	cd pirateTest
